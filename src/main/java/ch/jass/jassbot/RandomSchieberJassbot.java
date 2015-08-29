@@ -62,9 +62,6 @@ public class RandomSchieberJassbot extends AbstractJassBot {
 			return null;
 		}
 		return trumpfValues[item];
-		// int topDownStich countTopDownStich();
-		// int possibleTopDownStich possibleTopDownStich();
-		// TODO Auto-generated method stub
 	}
 
 	@Override
